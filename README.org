@@ -1,0 +1,560 @@
+#+TITLE:Violin Syllabus
+#+SUBTITLE:Syllabus for Musicians that taking Violin as their major instrument.
+
+* Learning The Violin
+*Goal:* Understanding instrument parts & family.
+
+- Violin & Bow Parts
+  + Violin: Strings, Bridge, etc.
+  + Bow: Hair, Pearl, etc.
+- Tightening and Loosening the Bow
+- The strings family
+- Different kinds of unique strings instrument
+  + Nyckelharpa
+  + Viola da Gamba
+  + Etc.
+
+* Postures & Positions
+*Goal:* Establish good postures.
+
+- Minimize tensions while standing or sitting
+- Standing Postures
+- How to hold Violin and Bow
+
+* Tuning Instrument
+*Goal:* Understanding of Instrument Tuning
+- Tuning the Violin
+- Tunning with Tuning Application
+
+  \newpage
+
+* Basics Techniques (Preparatory)
+/Building foundations for basic Violin playing/.
+
+*Goal:* Shaping basic bowing techniques.
+
+*Estimated Time:* 1-3 Months
+
+- Left Hand (Violin)
+  + Finger Placement
+  + Elbow & Wrist Shape
+
+- Right Hand (Bow)
+  + Pizzicato (Plucking)
+  + Bow Holds
+
+Use of simple songs to cultivate:
+- Open Strings > Pizzicato
+- Open Strings > Arco
+- Up and Down Bow
+- Whole and Half Bow
+- Straight Bowing
+- String Crossings
+- Sound Productions
+
+*Songs*:
+- Twinkle-Twinkle Little Stars
+- Twinkle-Twinkle Little Stars Variations
+  + 2 beats
+  + 1 1/2 beats
+  + 1/2 beats
+  + 1/4 beats
+
+*Scales and Arpeggios*
+- 1 Octave: A Major
+
+*Theory:*
+- Recognising the positions of GDAE on G Clef Stave
+- Understanding the value of each notes
+
+  \newpage
+
+* Grade 1
+/Building understanding of how music & instrument works/.
+
+** Goal
+
+*Estimated Time:* 8-14 Months
+
+1. Achieving understanding of basics for Violin.
+2. Left and Righ hand synchronization.
+3. Minimum understanding of how to play a song.
+4. How to practice Efficently and Effectively.
+5. How to play together with accompaniment.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Fingering for 1st-4th Finger
+  + Finger Pattern & Pressure
+  + Intonation & Precission
+
+- Right Hand (Bow)
+  + Pizzicato
+  + Separate Bows (Detache) and Slurs
+  + Bow Divisions
+  + Motions of hand
+  + Straight Bowing
+  + Bow Retakes
+  + Different parts of bowing
+
+- Unified Techniques
+  + Right & Left hand coordination
+  + Dynamics & Hand Pressure
+    - Crescendo & Diminuendo
+    - Accents on notes
+  + Playing Without Looking
+  + Metronome usage to help with training
+  + Rhythms on-beat and off-beat
+  + Sight reading for simple notation
+  + Scheduling and Structuring practice
+
+** Songs
+
+- Twinkle-Twinkle Little Stars
+- Twinkle-Twinkle Little Stars Variations
+  + 2 beats
+  + 1 1/2 beats
+  + 1/2 beats
+  + 1/4 beats
+
+** Scales and Arpeggios
+
+- 1 Octave:
+  + D Major, A Major
+  + E minor
+
+- 2 Octaves:
+  + G Major
+
+** Music Theory
+
+- Staves & Clef Names (G)
+- How to read notation
+- Open String locations (GDAE)
+- Note locations (A-G)
+- Beat and Tempo
+- Bar lines
+- Time & Key Signatures
+- Beat & Values of notes
+- Sharps, Flats, & Naturals
+- Scales and Arpeggios
+- Major Octaves
+- Intervals
+- Rests
+- Ties
+- Dotted Notes
+- Accidentals
+- Markings for:
+  + Tempo & Metronome
+  + Dynamics (Crescendo & Decrescendo)
+  + Signs (Repeat)
+  + Slurs & Ties
+  + Accents
+- Chunks and how to do it
+
+  \newpage
+
+* Grade 2
+/Achieving intentional basic instrument playing./
+
+** Goal
+
+*Estimated Time:* 8-14 Months
+
+1. Cultivate focus on reading and understanding musics or songs.
+2. Separating parts of bigger songs into smaller chunks.
+3. Understanding the difference between songs and emotions.
+4. Creating an advanced scheduling system for practicing instrument.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Ornaments
+    - Grace Notes
+    - Trills
+    - Glissando
+    - Tremolo
+
+- Right Hand (Bow)
+  + Legato
+  + Détaché
+  + Staccato
+  + Tenuto
+  + Portato
+  + Open Strings > Double Stop
+  + Bow Divisions (Extended)
+  + Phrasing of song passages
+
+- Unified Techniques
+  + How to practice fast passage
+  + Triplets and how to approach unusual beats
+  + Advanced techniques for fingering (4th finger)
+  + Dolcé
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+- 1 Octave:
+  + C Major, F Major
+  + G minor, D minor
+
+- 2 Octaves:
+  + G, A, Bb Majors
+
+** Music Theory
+
+- Triplets (Triads)
+- Staccato, Legato, Tenuto, Portato
+- Simple and Compound Time
+- Relative Major and Minor Keys
+- Harmonic and Melodic Minor Scales
+- Major and Minor Intervals
+
+  \newpage
+
+* Grade 3
+/Understanding the vastness of music and instrument./
+
+** Goal
+
+*Estimated Time:* 8-14 Months
+
+1. Shifting between positions (basics).
+2. Understanding of ornaments in music.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Shifting Finger (1st & 2nd Position)
+  + Vibrato and Practices
+  + Chromatic & Scales Passages
+
+- Right Hand (Bow)
+  + Spiccato
+  + Col Legno
+  + Martelé
+  + Advanced string crossings
+  + Double Stops (3rd, 6th, 8th, Open Strings)
+
+- Unified Techniques
+  + Rubato
+  + Tempo and Manipulation
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+- 1 Octave:
+  + Ab, Eb, E Majors
+
+- 2 Octaves:
+  + Bb, D Majors
+  + A, D minors
+
+** Chromatics
+
+- 1 Octave: Starting on Open G, Open D, Open A
+- 2 Octaves: Starting on Open G
+
+** Music Theory
+
+- 32nd notes (demisemiquavers)
+- 64th notes (hemidemisemiquavers)
+- Octave Transposition
+- Octave Signs (8th)
+- First and Second Time Bars
+- Intervals in Detail (Perfect, Augmented, Diminished)
+
+  \newpage
+
+* Grade 4
+/Advanced understanding of instrument./
+
+** Goal
+
+*Estimated Time:* 8-14 Months
+
+1. Shifting between positions (2nd,3rd).
+2. Understanding irregular signatures.
+3. Chords in Violin.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Shifting Finger (1-3rd Position)
+  + Double Stop Chords
+  + Glissando
+  + Portamento
+  + Basic Natural Harmonics
+  + Vibrato Control
+  + Left Hand Pizzicato on Open Strings
+  + Chromatic & Scales Passages
+
+- Right Hand (Bow)
+  + Sautillé
+  + Spiccato (Advanced)
+  + Sul Tasto
+  + Sul Ponticello
+  + Advanced string crossings
+  + Double Stops (3rd, 6th, 8th, Open Strings)
+
+- Unified Techniques
+  + Rubato
+  + Tempo and Manipulation
+  + Irregular Time Signatures
+  + Producing Good Tone Quality
+  + Chamber Music
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+- 2 Octave:
+  + Ab, B, C, E Major
+  + G, B, C minors
+
+** Chromatics
+
+- 1 Octave: Starting on Open G, Open D, Open A
+- 2 Octaves: Starting on Open G
+
+** Music Theory
+
+- 32nd notes (demisemiquavers)
+- 64th notes (hemidemisemiquavers)
+- Octave Transposition
+- Octave Signs (8th)
+- First and Second Time Bars
+- Intervals in Detail (Perfect, Augmented, Diminished)
+- Double Whole Notes (Breves)
+- Double Dots
+- Duplets and Other Tuplets
+- Double Sharps and Double Flats
+- Enharmonic Equivalents
+- Technical Names of Notes in the Scale
+- Chords
+- The Chromatic Scale
+- Ornament Signs
+- The Circle of Fifths
+
+* Grade 5
+/Advanced understanding of instrument./
+
+** Goal
+
+*Estimated Time:* 10-18 Months
+
+1. Shifting on higher positions (4th,5th).
+2. Intonation building.
+3. Irregular techniques.
+4. Vibrato control.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Extended shiftings
+  + Variation on Vibrato
+  + Bartók (“Slap”) Pizzicato
+
+- Right Hand (Bow)
+  + Rapid string crossings
+  + Triple and Quadruple stops
+  + Double Stops (3rd, 6th, 8th, Open Strings)
+
+- Unified Techniques
+  + Irregular Time Signatures
+  + Producing Good Tone Quality
+  + Chamber Music
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+- 2 Octave:
+  + Db, Eb, F Majors
+  + B, C#, E minors
+
+- 3 Octave:
+  + G, A Majors
+  + G, A minors
+
+** Chromatics
+
+- 2 Octaves:
+  + Open G
+  + Open D
+  + Open A
+  + Open E
+
+** Music Theory
+
+- Transposition
+- Compound Intervals
+- Identifying Chords
+- Inversions of Triads
+- Cadences
+
+  \newpage
+
+* Grade 6
+/Advanced understanding of instrument./
+
+** Goal
+
+*Estimated Time:* 12+ Months
+
+1. Shifting on all positions.
+2. Multiple chord formation.
+3. Understanding advanced harmonics.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Shifting (All Positions)
+
+- Right Hand (Bow)
+  + Ricochet
+  + Double Stops (3rd, 6th, 8th, Open Strings)
+
+- Unified Techniques
+  + Cadenzas
+  + Etudes & Patterns
+  + All Natural Harmonics
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+- 2 Octave:
+  + C, Eb, F# Majors
+  + C, Eb, F# minors
+
+- 3 Octave:
+  + G, Bb Majors
+  + G, Bb minors
+
+** Chromatics
+
+- 3 Octaves:
+  + Open G
+  + Open D
+  + Open A
+
+- 2 Octaves:
+  + Open E
+
+** Music Theory
+
+- Harmony
+- Chord Progressions
+- Sequences
+- Modulations
+
+  \newpage
+
+* Grade 7
+/Advanced understanding of instrument./
+
+** Goal
+
+*Estimated Time:* 12+ Months
+
+1. Shifting on all positions.
+2. Right hand staccato's.
+3. Understanding advanced harmonics.
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Shifting (All Positions)
+
+- Right Hand (Bow)
+  + Ricochet
+  + Double Stops (3rd, 6th, 8th, Open Strings)
+  + Up & Down Staccato
+  + "Flying" Staccato
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+- 2 Octave:
+  + F, F# Majors
+  + F, F# minors
+
+- 3 Octave:
+  + A, B, D Majors
+  + A, B, D minors
+
+** Chromatics
+
+- 3 Octaves:
+  + Open G
+  + Open D
+  + Open A
+
+- 2 Octaves:
+  + Open E
+
+** Music Theory
+
+* Grade 8
+/Advanced understanding of instrument./
+
+** Goal
+
+*Estimated Time:* 2+ years
+
+1. Starting journeys on musical genres.
+2. Advanced understanding of Violin.
+3. Completing techniques on violin
+
+** Practical Course
+
+- Left Hand (Violin)
+  + Shifting on all position
+  + Double Stop Trills
+  + Double Harmonics
+  + Fingernail Pizzicato
+  + Quarter Tones
+  + Chromatic Glissando
+
+- Right Hand (Bow)
+  + Circular Bowing
+  + Chopping
+
+- Unified Techniques
+  + Improvisation
+
+** Songs
+
+-
+-
+
+** Scales and Arpeggios
+
+Review on all scales & Arpeggios.
+
+** Chromatics
+
+All scales chromatic
