@@ -26,7 +26,10 @@
 - Tuning the Violin
 - Tunning with Tuning Application
 
+  #+begin_comment
   \newpage
+  #+end_comment
+
 
 * Basics Techniques (Preparatory)
 /Building foundations for basic Violin playing/.
@@ -67,7 +70,10 @@ Use of simple songs to cultivate:
 - Recognising the positions of GDAE on G Clef Stave
 - Understanding the value of each notes
 
+
+  #+begin_comment
   \newpage
+  #+end_comment
 
 * Grade 1
 /Building understanding of how music & instrument works/.
@@ -153,7 +159,10 @@ Use of simple songs to cultivate:
   + Accents
 - Chunks and how to do it
 
+
+  #+begin_comment
   \newpage
+  #+end_comment
 
 * Grade 2
 /Achieving intentional basic instrument playing./
@@ -215,7 +224,10 @@ Use of simple songs to cultivate:
 - Harmonic and Melodic Minor Scales
 - Major and Minor Intervals
 
+
+  #+begin_comment
   \newpage
+  #+end_comment
 
 * Grade 3
 /Understanding the vastness of music and instrument./
@@ -273,7 +285,10 @@ Use of simple songs to cultivate:
 - First and Second Time Bars
 - Intervals in Detail (Perfect, Augmented, Diminished)
 
+
+  #+begin_comment
   \newpage
+  #+end_comment
 
 * Grade 4
 /Advanced understanding of instrument./
@@ -408,7 +423,10 @@ Use of simple songs to cultivate:
 - Inversions of Triads
 - Cadences
 
+
+  #+begin_comment
   \newpage
+  #+end_comment
 
 * Grade 6
 /Advanced understanding of instrument./
@@ -467,7 +485,10 @@ Use of simple songs to cultivate:
 - Sequences
 - Modulations
 
+
+  #+begin_comment
   \newpage
+  #+end_comment
 
 * Grade 7
 /Advanced understanding of instrument./
